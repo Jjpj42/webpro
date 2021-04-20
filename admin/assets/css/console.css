@@ -1,0 +1,31 @@
+@import 'color.css';
+
+.img {
+    display: block;
+    margin: auto;
+    width: 60px;
+}
+.card-count {
+    margin: 0 auto;
+    padding: 5px;
+    font-size: 3rem;
+    flex: 1 1 auto;
+    text-align: center;
+}
+.canvas-container {
+    background:white;
+    /* box-shadow: 0 0 9px rgba(117,117,255,0.5); */
+    position: relative;
+    display: flex;
+    padding: 12px;
+    border-radius: 5px;
+}
+.form-head {
+    padding: 5px;
+    text-align: center;
+}
+.pro {
+    height: 500px;
+    position: relative;
+    overflow: scroll;
+}

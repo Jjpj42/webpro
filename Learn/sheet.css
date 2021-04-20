@@ -1,0 +1,14 @@
+
+.btn{
+    width: 50px;
+    height: 20px;
+    box-shadow: 4px 5px 10px rgba(0,0,0,0,4) ;
+    border: none;
+}
+.btn-pink{
+
+    background-color: pink;
+}
+.btn-red{
+    background-color: red;
+}

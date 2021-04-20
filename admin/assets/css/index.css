@@ -1,0 +1,26 @@
+@import "color.css";
+
+
+.login-control {
+    position: relative;
+    height: 100vh;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+}
+.form-container {
+    background: white;
+    padding: 10px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    overflow: hidden;
+}
+.form-header {
+    padding: 15px 50px;
+    text-align: center;
+}
+.waring {
+    text-align: center;
+}
